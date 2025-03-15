@@ -1,0 +1,6 @@
+# Python 3.10 or 3.9.13
+# requirements.txt
+
+TTS
+
+speechrecognition
